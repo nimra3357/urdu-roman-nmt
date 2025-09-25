@@ -1,3 +1,3 @@
 GitHub: https://github.com/nimra3357/urdu-roman-nmt
-Blog: <paste your Medium/Substack link>
+Blog: https://medium.com/@f223357/urdu-roman-urdu-with-seq2seq-bpe-rekhta-ghazals-02c81a3a79a8
 LinkedIn: <paste your public LinkedIn post link>
